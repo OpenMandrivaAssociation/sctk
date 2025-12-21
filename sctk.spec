@@ -7,6 +7,7 @@ Group:		Text tools
 Source:		ftp://jaguar.ncsl.nist.gov/pub/%{name}-%{version}-20091110-0958.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
+BuildRequires:	make
 %description
 Speech Recognition Scoring Toolkit (SCTK)
 Includes the SCLITE, ASCLITE, tranfilt, hubscr, SLATreport and utf_filt scoring tools
