@@ -1,7 +1,7 @@
 Summary:	Speech Recognition Scoring Toolkit (SCTK)
 Name:		sctk
 Version:	2.4.0
-Release:	%mkrel 0
+Release:	1
 License:	GPL
 Group:		Text tools
 Source:		ftp://jaguar.ncsl.nist.gov/pub/%{name}-%{version}-20091110-0958.tar.bz2
